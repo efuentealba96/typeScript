@@ -10,6 +10,5 @@
         console.log("estamos en problemas");
     }else{
         console.log("nos salvamos");
-        const = "hola"
     }
 })()
