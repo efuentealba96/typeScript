@@ -5,3 +5,4 @@ const hero = {
     age: 45,
 };
 console.log(hero);
+console.log();
